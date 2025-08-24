@@ -1,0 +1,41 @@
+title,description,label
+Call drop issue,User facing frequent call drops in city area,Radio
+Network outage,No signal in multiple towers of region,Radio
+Coverage problem,Poor network signal indoors,Radio
+Handover failure,Call drops when moving between towers,Radio
+Weak signal,Low bars in rural areas,Radio
+Frequent disconnection,Mobile disconnects from network repeatedly,Radio
+High interference,Cross talk and interference in calls,Radio
+Roaming issue,Unable to latch onto visited network,Radio
+Call mute problem,Voice not audible during active calls,Radio
+SMS delivery fail,SMS messages not being delivered,Radio
+High latency,Customer reports high latency during browsing,Core
+Slow internet,Packet core congestion causing slow browsing,Core
+Data session failed,Unable to establish PDP context,Core
+Attach reject,User unable to attach to packet core,Core
+Throughput drop,Internet speed degraded during peak hours,Core
+VoLTE registration fail,IMS core not accepting registration,Core
+DNS failure,Name resolution issue in core network,Core
+Call setup delay,Long time taken to establish calls,Core
+Bearer drop,Default bearer getting released unexpectedly,Core
+IP allocation fail,Subscriber not receiving IP address,Core
+SIM not detected,Device not recognizing SIM card,Device
+Phone not switching on,Device fails to power on,Device
+Screen cracked,Customer reports broken device screen,Device
+Battery draining fast,Mobile battery backup too low,Device
+Overheating,Phone heats up during usage,Device
+Mic not working,Caller cannot hear user voice,Device
+Speaker issue,No sound output from device,Device
+Software crash,Device apps crash frequently,Device
+Frozen screen,Device screen unresponsive,Device
+Charging issue,Phone not charging properly,Device
+Wrong billing amount,Customer charged twice for last month,Billing
+Extra charges in bill,Unexpected roaming charges added,Billing
+Overcharged SMS,Extra SMS charges added in monthly bill,Billing
+Plan not activated,Recharge done but pack not active,Billing
+Balance deduction,Balance deducted without usage,Billing
+Refund not received,Customer waiting for recharge refund,Billing
+Roaming bill error,Incorrect roaming usage charges,Billing
+Postpaid bill shock,High unexpected monthly bill,Billing
+Discount not applied,Promised discount missing in bill,Billing
+Duplicate charges,Same service charged multiple times,Billing
